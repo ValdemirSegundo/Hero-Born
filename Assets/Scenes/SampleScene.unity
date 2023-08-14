@@ -1302,6 +1302,7 @@ MonoBehaviour:
   showLossScreen: 0
   maxItems: 1
   _playerHP: 100
+  _state: 
 --- !u!4 &1215551780
 Transform:
   m_ObjectHideFlags: 0
@@ -2346,7 +2347,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7473327110425485840, guid: 7554b738f87548c42a284f175f8dfb31, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.25
       objectReference: {fileID: 0}
     - target: {fileID: 7473327110425485840, guid: 7554b738f87548c42a284f175f8dfb31, type: 3}
       propertyPath: m_LocalPosition.y
