@@ -615,6 +615,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 1058467364464535064, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 2841817069275268457, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -647,6 +651,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5771696180118218545, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 6651428876912308964, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -699,6 +707,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8335400363170708906, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 9063804134759184814, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Name
       value: Barrier_02
@@ -1954,6 +1966,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 1058467364464535064, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 2841817069275268457, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -1986,6 +2002,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5771696180118218545, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 6651428876912308964, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -2038,6 +2058,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8335400363170708906, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 9063804134759184814, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Name
       value: Barrier_03 (1)
@@ -2072,6 +2096,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 1058467364464535064, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 2841817069275268457, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -2104,6 +2132,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5771696180118218545, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 6651428876912308964, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -2156,6 +2188,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8335400363170708906, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 9063804134759184814, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Name
       value: Barrier_03
@@ -2422,6 +2458,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 1058467364464535064, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 2841817069275268457, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -2454,6 +2494,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5771696180118218545, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 6651428876912308964, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -2506,6 +2550,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8335400363170708906, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca9223f72268220468a4d185ee07d7a2, type: 2}
     - target: {fileID: 9063804134759184814, guid: 0408b805f6a576e45aef3ee0813e18e4, type: 3}
       propertyPath: m_Name
       value: Barrier_01
